@@ -21,7 +21,7 @@ annotations:
     reference: ''
     span:
       start: 1375
-      end: 1603
+      end: 1599
 local_ids:
   c5db0799677b450c85169897ee9e0e54: 200000
   e0d9abd7800e43b386a52087aa96f4ff: 200001
